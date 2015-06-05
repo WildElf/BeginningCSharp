@@ -1,0 +1,4 @@
+D:\Docs\_Programming\MSVisualC#Projects\DieClassExample\DieClassExample\bin\Release\DieClassExample.exe
+D:\Docs\_Programming\MSVisualC#Projects\DieClassExample\DieClassExample\bin\Release\DieClassExample.pdb
+D:\Docs\_Programming\MSVisualC#Projects\DieClassExample\DieClassExample\obj\x86\Release\DieClassExample.exe
+D:\Docs\_Programming\MSVisualC#Projects\DieClassExample\DieClassExample\obj\x86\Release\DieClassExample.pdb

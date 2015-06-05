@@ -1,0 +1,2 @@
+D:\Docs\_Programming\MSVisualC#Projects\GameProject\RequiredProjectIncrement1\RequiredProjectIncrement1Content\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache
+D:\Docs\_Programming\MSVisualC#Projects\GameProject\GameProject\GameProjectContent\obj\x86\Debug\GameProjectContent.contentprojResolveAssemblyReference.cache

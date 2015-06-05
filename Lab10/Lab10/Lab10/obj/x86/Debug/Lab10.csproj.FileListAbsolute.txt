@@ -1,0 +1,10 @@
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\bin\x86\Debug\Content\explosion.xnb
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\bin\x86\Debug\Content\teddybear0.xnb
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\bin\x86\Debug\Content\teddybear1.xnb
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\bin\x86\Debug\Lab10.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\bin\x86\Debug\Lab10.pdb
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\bin\x86\Debug\ExplodingTeddies.dll
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\obj\x86\Debug\Lab10.csprojResolveAssemblyReference.cache
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\obj\x86\Debug\Lab10.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab10\Lab10\Lab10\obj\x86\Debug\Lab10.pdb

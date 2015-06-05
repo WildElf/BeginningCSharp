@@ -1,0 +1,6 @@
+C:\Users\Z\AppData\Local\Temporary Projects\FirstCSProgram\bin\Release\FirstCSProgram.exe
+C:\Users\Z\AppData\Local\Temporary Projects\FirstCSProgram\bin\Release\FirstCSProgram.pdb
+C:\Users\Z\AppData\Local\Temporary Projects\FirstCSProgram\obj\x86\Release\FirstCSProgram.exe
+C:\Users\Z\AppData\Local\Temporary Projects\FirstCSProgram\obj\x86\Release\FirstCSProgram.pdb
+d:\docs\Programming\MSVisualC#Projects\FirstCSProgram\FirstCSProgram\obj\x86\Release\FirstCSProgram.exe
+d:\docs\Programming\MSVisualC#Projects\FirstCSProgram\FirstCSProgram\obj\x86\Release\FirstCSProgram.pdb

@@ -1,0 +1,6 @@
+D:\Docs\_Programming\MSVisualC#Projects\Lab12\Lab12\bin\Release\Lab12.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab12\Lab12\bin\Release\Lab12.pdb
+D:\Docs\_Programming\MSVisualC#Projects\Lab12\Lab12\bin\Release\ConsoleCards.dll
+D:\Docs\_Programming\MSVisualC#Projects\Lab12\Lab12\obj\x86\Release\Lab12.csprojResolveAssemblyReference.cache
+D:\Docs\_Programming\MSVisualC#Projects\Lab12\Lab12\obj\x86\Release\Lab12.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab12\Lab12\obj\x86\Release\Lab12.pdb

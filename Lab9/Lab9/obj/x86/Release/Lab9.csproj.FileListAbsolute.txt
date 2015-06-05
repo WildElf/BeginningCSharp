@@ -1,0 +1,6 @@
+C:\Users\Z\AppData\Local\Temporary Projects\Lab9\bin\Release\Lab9.exe
+C:\Users\Z\AppData\Local\Temporary Projects\Lab9\bin\Release\Lab9.pdb
+C:\Users\Z\AppData\Local\Temporary Projects\Lab9\obj\x86\Release\Lab9.exe
+C:\Users\Z\AppData\Local\Temporary Projects\Lab9\obj\x86\Release\Lab9.pdb
+D:\Docs\_Programming\MSVisualC#Projects\Lab9\Lab9\obj\x86\Release\Lab9.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab9\Lab9\obj\x86\Release\Lab9.pdb

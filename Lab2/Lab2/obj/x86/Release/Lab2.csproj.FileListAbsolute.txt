@@ -1,0 +1,6 @@
+C:\Users\Z\AppData\Local\Temporary Projects\Lab2\bin\Release\Lab2.exe
+C:\Users\Z\AppData\Local\Temporary Projects\Lab2\bin\Release\Lab2.pdb
+C:\Users\Z\AppData\Local\Temporary Projects\Lab2\obj\x86\Release\Lab2.exe
+C:\Users\Z\AppData\Local\Temporary Projects\Lab2\obj\x86\Release\Lab2.pdb
+D:\Docs\_Programming\MSVisualC#Projects\Lab2\Lab2\obj\x86\Release\Lab2.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab2\Lab2\obj\x86\Release\Lab2.pdb

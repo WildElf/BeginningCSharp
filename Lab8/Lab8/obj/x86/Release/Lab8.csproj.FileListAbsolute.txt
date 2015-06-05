@@ -1,0 +1,6 @@
+C:\Users\Z\AppData\Local\Temporary Projects\Lab8\bin\Release\Lab8.exe
+C:\Users\Z\AppData\Local\Temporary Projects\Lab8\bin\Release\Lab8.pdb
+C:\Users\Z\AppData\Local\Temporary Projects\Lab8\obj\x86\Release\Lab8.exe
+C:\Users\Z\AppData\Local\Temporary Projects\Lab8\obj\x86\Release\Lab8.pdb
+D:\Docs\_Programming\MSVisualC#Projects\Lab8\Lab8\obj\x86\Release\Lab8.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab8\Lab8\obj\x86\Release\Lab8.pdb

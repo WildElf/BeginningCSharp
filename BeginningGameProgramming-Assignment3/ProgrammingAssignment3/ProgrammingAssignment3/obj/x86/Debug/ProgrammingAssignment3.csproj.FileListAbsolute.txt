@@ -1,0 +1,9 @@
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\greenrock.xnb
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\magentarock.xnb
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\Content\whiterock.xnb
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.exe
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment3\ProgrammingAssignment3\ProgrammingAssignment3\bin\x86\Debug\ProgrammingAssignment3.pdb
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment3\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb

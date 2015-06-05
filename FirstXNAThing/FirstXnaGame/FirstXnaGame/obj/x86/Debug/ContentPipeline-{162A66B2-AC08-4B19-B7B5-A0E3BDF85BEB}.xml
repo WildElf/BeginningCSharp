@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{162A66B2-AC08-4B19-B7B5-A0E3BDF85BEB}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game Resolution and Loading Content\Code\Start Code\VisualStudioStartCode\FirstXnaGame\FirstXnaGameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game Resolution and Loading Content\Code\Start Code\VisualStudioStartCode\FirstXnaGame\FirstXnaGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game Resolution and Loading Content\Code\Start Code\VisualStudioStartCode\FirstXnaGame\FirstXnaGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game Resolution and Loading Content\Code\Start Code\VisualStudioStartCode\FirstXnaGame\FirstXnaGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-15T15:22:17.2983302-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

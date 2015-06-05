@@ -1,0 +1,4 @@
+D:\Docs\_Programming\MSVisualC#Projects\Lab4\Lab4\bin\Release\Lab4.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab4\Lab4\bin\Release\Lab4.pdb
+D:\Docs\_Programming\MSVisualC#Projects\Lab4\Lab4\obj\x86\Release\Lab4.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab4\Lab4\obj\x86\Release\Lab4.pdb

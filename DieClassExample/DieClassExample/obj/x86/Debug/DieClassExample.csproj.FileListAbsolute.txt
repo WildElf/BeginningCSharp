@@ -1,0 +1,5 @@
+D:\Docs\_Programming\MSVisualC#Projects\DieClassExample\DieClassExample\bin\Debug\DieClassExample.exe
+D:\Docs\_Programming\MSVisualC#Projects\DieClassExample\DieClassExample\bin\Debug\DieClassExample.pdb
+D:\Docs\_Programming\MSVisualC#Projects\DieClassExample\DieClassExample\obj\x86\Debug\DieClassExample.exe
+D:\Docs\_Programming\MSVisualC#Projects\DieClassExample\DieClassExample\obj\x86\Debug\DieClassExample.pdb
+D:\Docs\_Programming\MSVisualC#Projects\DieClassExample\DieClassExample\obj\x86\Debug\DieClassExample.csprojResolveAssemblyReference.cache

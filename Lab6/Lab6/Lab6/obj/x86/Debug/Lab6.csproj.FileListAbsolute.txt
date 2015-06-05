@@ -1,0 +1,8 @@
+D:\Docs\_Programming\MSVisualC#Projects\Lab6\Lab6\Lab6\bin\x86\Debug\Content\teddybear0.xnb
+D:\Docs\_Programming\MSVisualC#Projects\Lab6\Lab6\Lab6\bin\x86\Debug\Content\teddybear1.xnb
+D:\Docs\_Programming\MSVisualC#Projects\Lab6\Lab6\Lab6\bin\x86\Debug\Lab6.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab6\Lab6\Lab6\bin\x86\Debug\Lab6.pdb
+D:\Docs\_Programming\MSVisualC#Projects\Lab6\Lab6\Lab6\obj\x86\Debug\Lab6.csprojResolveAssemblyReference.cache
+D:\Docs\_Programming\MSVisualC#Projects\Lab6\Lab6\Lab6\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Docs\_Programming\MSVisualC#Projects\Lab6\Lab6\Lab6\obj\x86\Debug\Lab6.exe
+D:\Docs\_Programming\MSVisualC#Projects\Lab6\Lab6\Lab6\obj\x86\Debug\Lab6.pdb

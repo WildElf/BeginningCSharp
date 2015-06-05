@@ -1,0 +1,4 @@
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment1\BeginningGameProgramming-Assignment1\bin\Release\BeginningGameProgramming-Assignment1.exe
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment1\BeginningGameProgramming-Assignment1\bin\Release\BeginningGameProgramming-Assignment1.pdb
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment1\BeginningGameProgramming-Assignment1\obj\x86\Release\BeginningGameProgramming-Assignment1.exe
+D:\Docs\_Programming\MSVisualC#Projects\BeginningGameProgramming-Assignment1\BeginningGameProgramming-Assignment1\obj\x86\Release\BeginningGameProgramming-Assignment1.pdb

@@ -1,0 +1,8 @@
+D:\Docs\_Programming\MSVisualC#Projects\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\pickup.xnb
+D:\Docs\_Programming\MSVisualC#Projects\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\Content\teddybear.xnb
+D:\Docs\_Programming\MSVisualC#Projects\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\ProgrammingAssignment4.exe
+D:\Docs\_Programming\MSVisualC#Projects\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\bin\x86\Debug\ProgrammingAssignment4.pdb
+D:\Docs\_Programming\MSVisualC#Projects\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.csprojResolveAssemblyReference.cache
+D:\Docs\_Programming\MSVisualC#Projects\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Docs\_Programming\MSVisualC#Projects\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.exe
+D:\Docs\_Programming\MSVisualC#Projects\ProgrammingAssignment4\ProgrammingAssignment4\ProgrammingAssignment4\obj\x86\Debug\ProgrammingAssignment4.pdb

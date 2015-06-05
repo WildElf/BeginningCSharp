@@ -1,0 +1,9 @@
+D:\Docs\_Programming\MSVisualC#Projects\RubberChicken\RubberChicken\RubberChicken\bin\x86\Debug\Content\Rubberchicken.xnb
+D:\Docs\_Programming\MSVisualC#Projects\RubberChicken\RubberChicken\RubberChicken\bin\x86\Debug\RubberChicken.exe
+D:\Docs\_Programming\MSVisualC#Projects\RubberChicken\RubberChicken\RubberChicken\bin\x86\Debug\RubberChicken.pdb
+D:\Docs\_Programming\MSVisualC#Projects\RubberChicken\RubberChicken\RubberChicken\obj\x86\Debug\RubberChicken.csprojResolveAssemblyReference.cache
+D:\Docs\_Programming\MSVisualC#Projects\RubberChicken\RubberChicken\RubberChicken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Docs\_Programming\MSVisualC#Projects\RubberChicken\RubberChicken\RubberChicken\obj\x86\Debug\RubberChicken.exe
+D:\Docs\_Programming\MSVisualC#Projects\RubberChicken\RubberChicken\RubberChicken\obj\x86\Debug\RubberChicken.pdb
+D:\Docs\_Programming\MSVisualC#Projects\RubberChicken\RubberChicken\RubberChicken\bin\x86\Debug\Content\explosion.xnb
+D:\Docs\_Programming\MSVisualC#Projects\RubberChicken\RubberChicken\RubberChicken\bin\x86\Debug\Content\teddybear.xnb

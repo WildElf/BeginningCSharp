@@ -1,0 +1,3 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game\Code\FirstXnaGame\FirstXnaGameContent\obj\x86\Debug\FirstXnaGameContent.contentprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\15 Your First XNA Game Resolution and Loading Content\Code\Start Code\VisualStudioStartCode\FirstXnaGame\FirstXnaGameContent\obj\x86\Debug\FirstXnaGameContent.contentprojResolveAssemblyReference.cache
+D:\Docs\Programming\MSVisualC#Projects\FirstXNAThing\FirstXnaGame\FirstXnaGameContent\obj\x86\Debug\FirstXnaGameContent.contentprojResolveAssemblyReference.cache

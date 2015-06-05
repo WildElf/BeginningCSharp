@@ -1,0 +1,24 @@
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\Content\teddybear0.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\Content\teddybear1.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\Content\teddybear2.xnb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\MovingTeddyBears.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\MovingTeddyBears.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\Start Code\VisualStudioMovingTeddyBears\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\Start Code\VisualStudioMovingTeddyBears\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\Start Code\VisualStudioMovingTeddyBears\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\Start Code\VisualStudioMovingTeddyBears\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.pdb
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\Start Code\VisualStudioMovingTeddyBears\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\MovingTeddyBears.exe
+D:\Courses\MOOC\GDD 1200\Lectures\Module 5 XNA Basics\17 More XNA Practice\Code\Start Code\VisualStudioMovingTeddyBears\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\MovingTeddyBears.pdb
+D:\Docs\Programming\MSVisualC#Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.csprojResolveAssemblyReference.cache
+D:\Docs\Programming\MSVisualC#Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Docs\Programming\MSVisualC#Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.exe
+D:\Docs\Programming\MSVisualC#Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\MovingTeddyBears.exe
+D:\Docs\Programming\MSVisualC#Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\MovingTeddyBears.pdb
+D:\Docs\Programming\MSVisualC#Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.pdb
+D:\Docs\Programming\MSVisualC#Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\Content\teddybear0.xnb
+D:\Docs\Programming\MSVisualC#Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\Content\teddybear1.xnb
+D:\Docs\Programming\MSVisualC#Projects\MovingTeddyBears\MovingTeddyBears\MovingTeddyBears\bin\x86\Debug\Content\teddybear2.xnb

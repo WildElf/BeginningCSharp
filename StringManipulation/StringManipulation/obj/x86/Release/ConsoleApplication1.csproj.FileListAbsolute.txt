@@ -1,0 +1,4 @@
+C:\Users\Z\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\Z\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\Z\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\Z\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb
